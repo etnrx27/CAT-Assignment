@@ -1,5 +1,6 @@
 # CAT-Assignment
 Final Assignment to develop a suitable cloud model for 'Cloud Architecture & Technologies' Module Taken in NP Semester 3.
+# What is Required
 Please refer to the document, "CAT 2021-04 Assignment Writeup" for more details on the CAT assignment. 
 
 # My Duties
