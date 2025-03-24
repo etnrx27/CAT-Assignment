@@ -1,7 +1,21 @@
-# CAT-Assignment
-Final Assignment to develop a suitable cloud model for 'Cloud Architecture & Technologies' Module Taken in NP Semester 3.
-# What is Required
-Please refer to the document, "CAT 2021-04 Assignment Writeup" for more details on the CAT assignment. 
+# Cloud_Services_Experimentaion
+Implementing Cloud Services to meet a given simulated business requirement.
 
-# My Duties
-In this group assignment, I was in charge of making the lambda function to resize photos to thumbnail sizes when uploaded to S3 buckets. 
+# Features
+1) Deploying EC2 instances to create elastic and resilient server infrastructure using auto scaling and load balancers
+2) Deploying S3 object storage for cloud storage requirements
+3) Create a database to manage business data
+4) Implement a lambda function to monitor events and trigger notifications
+5) Implament a Lambda function to run applications when triggered
+
+# Materials
+1) Cloud_Services_Experimentation.docx
+
+# Contributors
+1) Reiner Goh Yee Heng 	
+2) Kok Jia Cheng, Glenn	
+3) Ow Kai Jie, Clarence	
+4) Toh Yi Jing	
+5) Neo Rei Siang Edward	
+6) Colin Foo Chi Yang	
+
